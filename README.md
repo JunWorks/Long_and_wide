@@ -13,4 +13,4 @@ On the other hand, long format data is less often to see. However, it has it’s
 
 In this repo, I’ll show how to transform the data between the two formats, how is long format faster to process, and how to efficiently plot each format. We will use the monthly precipitation data for San Francisco and Sacramento as our examples.
 
-You can also see the tutorial [here](https://towardsdatascience.com/long-wide-data-and-how-to-efficiently-plot-them-7a96887e309d?).
+You can also see the tutorial [here](https://towardsdatascience.com/long-wide-data-and-how-to-efficiently-plot-them-7a96887e309d?source=friends_link&sk=d1e61a44194ad32c766b196f07a8b5f8).
